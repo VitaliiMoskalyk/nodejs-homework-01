@@ -12,8 +12,6 @@
 
 Скрин [#4](https://monosnap.com/file/Ybq9TF4SzoQ5Nir40ckmUemMwmtDw9)
 
-Мой [репозиторий](https://github.com/VitaliiMoskalyk/nodejs-homework-01)
-
 ## Шаг 1
 
 - Инициализируй npm в проекте
