@@ -42,10 +42,4 @@ const invokeActions = async ({ action, id, name,email,phone }) => {
     }
 }
 
-const newData = {
-    name: "Ivanov Lane",
-    email: "ivanov.Cras@nonenimMauris.net",
-    phone: "(46) 1255-8547"
-}
-
 invokeActions(argv)
